@@ -1,4 +1,4 @@
-<h1 align="center">CL1XA</h1>
+<h1 align="center">BUG</h1>
 <h3 align="center">Wanabe backend reverse engineer who should probably use GIT a little more</h3>
 
 <h2 align="center">[Languages and Tools]</h2>
